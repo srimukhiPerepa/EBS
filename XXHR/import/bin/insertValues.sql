@@ -1,1 +1,7 @@
-INSERT INTO table_new VALUES(124, 'perepa', 'srimukhi', 'lig-526', 'Hyderabad');
+CREATE TABLE country_table (
+    Address varchar(255),
+    City varchar(255)
+);
+
+ALTER TABLE country_table
+DROP COLUMN City;
