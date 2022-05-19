@@ -1,5 +1,5 @@
 import java.util.*;
-public class LeftTrianglePattern  
+public class Pattern  
 {    
   public static void main(String args[])   
   {     
