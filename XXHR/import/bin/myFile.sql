@@ -6,6 +6,6 @@ CREATE TABLE table_new (
     City varchar(255)
 );
 
-INSERT INTO table_new VALUES( 123, "lastName", "FirstName", "Address", "City");
+INSERT INTO table_new VALUES( 123, 'lastName', 'FirstName', 'Address', 'City');
 
 SELECT * FROM table_new;
