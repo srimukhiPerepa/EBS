@@ -1,4 +1,4 @@
-CREATE TABLE Persons (
+CREATE TABLE table_new (
     PersonID int,
     LastName varchar(255),
     FirstName varchar(255),
@@ -6,6 +6,6 @@ CREATE TABLE Persons (
     City varchar(255)
 );
 
-insert into Persons value( 123, "lastName", "FirstName", "Address", "City");
+INSERT INTO table_new VALUE( 123, "lastName", "FirstName", "Address", "City");
 
-select * from Persons;
+SELECT * FROM table_new;
