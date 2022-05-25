@@ -2,7 +2,7 @@ CREATE TABLE country_table1 (
     Address varchar(255),
     City varchar(255)
 );
-
+/* altering values*/
 ALTER TABLE country_table1
 DROP COLUMN City;
 
