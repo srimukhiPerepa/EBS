@@ -5,7 +5,7 @@ CREATE TABLE newTableContents (
     Address varchar(255),
     City varchar(255)
 );
---xyz new change -- j  afds
+--xyz new change -- j   afds
 INSERT INTO newTableContents VALUES( 123, 'lastName', 'FirstName', 'Address', 'City');
 
 SELECT * FROM newTableContents;
