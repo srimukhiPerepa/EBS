@@ -1,2 +1,2 @@
 --sql files--
---verif myn ---
+--verif m yn ---
