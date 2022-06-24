@@ -1,2 +1,2 @@
 --sql files--
---verif m yn   ---
+--verify---
