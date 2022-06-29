@@ -1,1 +1,1 @@
-select * from table;/* */
+select * from POS_SUPP_PUB_HISTORY;
