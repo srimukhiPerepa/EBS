@@ -9,4 +9,5 @@ CREATE TABLE newTableContents (
 INSERT INTO newTableContents VALUES( 123, 'lastName', 'FirstName', 'Address', 'City');
 SELECT * FROM newTableContents;
 
+
 DROP TABLE newTableContents;
