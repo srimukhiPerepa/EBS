@@ -9,3 +9,4 @@ DROP COLUMN City;
 DESC country_table1;
 
 DROP TABLE country_table1;
+
