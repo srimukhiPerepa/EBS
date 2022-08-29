@@ -6,3 +6,4 @@ public class JavaFile
     System.out.println("New java file");
   }
 }
+
