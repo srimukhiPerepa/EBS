@@ -6,4 +6,4 @@ CREATE TABLE country_table1 (
     City varchar(255)
     
 );
-DROP TABLE country_table1;
+
