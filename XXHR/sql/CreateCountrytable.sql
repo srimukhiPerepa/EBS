@@ -6,3 +6,4 @@ CREATE TABLE country_table1 (
     City varchar(255)  
 )
 /
+
