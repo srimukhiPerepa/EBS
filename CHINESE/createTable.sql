@@ -1,1 +1,1 @@
-create table test_dummy1 (username varchar(255));
+create table DUMMY1 (username varchar(255));
