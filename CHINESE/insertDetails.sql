@@ -1,1 +1,1 @@
-insert into test_dummy1 (username) values ('中国');
+insert into DUMMY1 (username) values ('中国');
