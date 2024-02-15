@@ -5,4 +5,3 @@ CREATE TABLE country_table1 (
     Address varchar(255),
     City varchar(255)  
 )
-
